@@ -15,27 +15,49 @@
 
 ---
 
-## 🛠 Технологии
-- **Языки:** Dart, JavaScript, TypeScript, HTML, CSS
-- **Фреймворки:** Flutter, React  
-- **Инструменты:** Git, GitHub, Figma, Android Studio, VS Code  
-- **Умею:** Adaptive UI, сложные layout’ы, чистую архитектуру, API-интеграции, Firebase, управление состоянием.
+## 🛠 Технологии (с иконками)
+
+### 🚀 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart" width="45" alt="Dart"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS"/>
+</p>
+
+### ⚡ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
+</p>
+
+### 🧩 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="45" alt="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=apple" width="45" alt="macOS"/>
+  <img src="https://skillicons.dev/icons?i=terminal" width="45" alt="Terminal"/>
+</p>
 
 ---
 
 ## 🚀 Что я делаю
-- Профессиональная верстка в Flutter и Frontend
+- Профессиональная верстка в Flutter и Frontend  
 - Финтех-интерфейсы: banking UI, транзакции, экранные сценарии, анимации  
 - Коммерческие проекты и фриланс-заказы  
 - Продуктовые приложения «под ключ»  
-- UI/UX по готовым дизайнам и с нуля
+- UI/UX по готовым дизайнам и с нуля  
 
 ---
 
 ## 📂 Избранные проекты
-*(подставлю реальные ссылки, если дашь список репозиториев)*
+*(подставлю реальные ссылки, если дашь репозитории)*  
 
-- **Banking UI** — профессиональный пользовательский интерфейс для банковского приложения (финтех-проект).  
+- **Banking UI** — профессиональный пользовательский интерфейс для банковского приложения.  
 - **Quant App** — приложение для управления финансами.  
 - **Full-screen Tic-Tac-Toe** — кастомный UI + анимации.
 
@@ -49,19 +71,19 @@
 - **GitHub:** https://github.com/M-Ali-2010  
 - **LinkedIn:** https://linkedin.com/in/muhammadali  
 - **Instagram:** https://www.instagram.com/muhammad_ali_10_0  
-- **Телефон:** +998 (33) 757-33-33
+- **Телефон:** +998 (33) 757-33-33  
 
 ---
 
 ## 📊 GitHub статистика
 <p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M-Ali-2010&show_icons=true&count_private=true&theme=radical" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ali-2010&layout=compact&theme=radical" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M-Ali-2010&show_icons=true&count_private=true&theme=radical"/>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ali-2010&layout=compact&theme=radical"/>
 </p>
 
 <p align="left">
-  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ali-2010&theme=radical" />
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=M-Ali-2010&theme=radical" />
+  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ali-2010&theme=radical"/>
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=M-Ali-2010&theme=radical"/>
 </p>
 
 ---
@@ -73,4 +95,4 @@
 
 ---
 
-Если хочешь — могу сделать **английскую версию**, более строгую, для рекрутеров из Европы/США.
+Если нужно — сделаю **английскую версию** с холодным и строгим стилем для международных рекрутеров.
